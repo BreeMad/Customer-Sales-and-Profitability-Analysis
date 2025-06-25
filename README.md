@@ -16,17 +16,18 @@ uncover insights related to product performance, regional sales trends, and cust
 2. **Lowest Profit or Loss of Money**  
    Which products are making the lowest profit or are losing money?
 
-4. **Sales Count for Each Product**  
-   How many units of each coffee product have been sold?
+4. **High Sales and Low Profit Margins**  
+   Is there a noticeable difference between high sales and low profit margins?
 
-5. **Average Sales Amount per City**  
-   What is the average sales amount per customer in each city?
+***Regional Analysis***
+1. **Profitable Regions**  
+   Which regions are the most and least profitable?
 
-6. **City Population and Coffee Consumers**  
-   Provide a list of cities along with their populations and estimated coffee consumers.
+2. **Sales Volume and Profitability**  
+   Does sales volume and profitability differ depending on the region?
 
-7. **Top Selling Products by City**  
-   What are the top 3 selling products in each city based on sales volume?
+4. **High Sales and Low Profit Margins Difference**  
+   Is there a noticeable difference between high sales and low profit margins?
 
 8. **Customer Segmentation by City**  
    How many unique customers are there in each city who have purchased coffee products?
