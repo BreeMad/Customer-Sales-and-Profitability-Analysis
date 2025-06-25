@@ -54,7 +54,7 @@ After analyzing the data, the following strategies are recommended for the retai
 1. High sales do not necessarily mean high profits. Therefore, it is important to focus on profits, not just sales.
 
 **Identify Costly Products**  
-+Highest total revenue. 
++ Highest total revenue. 
 
 **City 1: Pune**  
 2. Average rent per customer is very low. 
