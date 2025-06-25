@@ -26,18 +26,24 @@ uncover insights related to product performance, regional sales trends, and cust
 2. **Sales Volume and Profitability**  
    Does sales volume and profitability differ depending on the region?
 
-4. **High Sales and Low Profit Margins Difference**  
-   Is there a noticeable difference between high sales and low profit margins?
+***Customer Segmentation***
+1. **Customer Segmentation Profitability**  
+   How does profitability differ across customer segment (e.g., Consumer, Corporate, Home Office)?
 
-8. **Customer Segmentation by City**  
-   How many unique customers are there in each city who have purchased coffee products?
+2. **Highest Profit Margin**  
+   Which segment generates the highest profit margin on each sale?
 
-9. **Average Sale vs Rent**  
-   Find each city and their average sale per customer and avg rent per customer
+***Time Series Analysis***
+1. **Sales Over Time**  
+   How do sales change over time? Are there monthly or quarterly trends?
 
-10. **Monthly Sales Growth**  
-   Sales growth rate: Calculate the percentage growth (or decline) in sales over different time periods (monthly).
+2. **Trends**  
+   Are there any patterns, such as seasonal increases or decreases in sales performance?
+   
+ ***Correlation & Relationships***
+1. **Sales, Profit, Discount, and Quantity Correlation**  
+   What is the relationship between sales, profit, discount, and quantity?
 
-11. **Market Potential Analysis**  
-    Identify top 3 city based on highest sales, return city name, total sale, total rent, total customers, estimated  coffee consumer
+2. **Trends**  
+   Do larger discounts result in better profitability, or do they have the opposite effect? 
     
