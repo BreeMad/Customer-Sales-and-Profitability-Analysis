@@ -54,7 +54,7 @@ After analyzing the data, the following strategies are recommended for the retai
 1. High sales do not necessarily mean high profits. Therefore, it is important to focus on profits, not just sales.
 
 **Identify Costly Products**  
-2. Some products and areas are continuously losing money, requiring improvement or removal.
+2. Highest total revenue. 
 
 **Personalized Marketing**  
 3. Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
