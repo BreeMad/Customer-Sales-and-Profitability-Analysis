@@ -51,18 +51,15 @@ uncover insights related to product performance, regional sales trends, and cust
 After analyzing the data, the following strategies are recommended for the retail team to elevate performance:
 
 **Focus on Profits, Not Just Sales**  
-1. High sales do not necessarily mean high profits. Therefore, it is important to focus on profits, not just sales.
++ High sales do not necessarily mean high profits. Therefore, it is important to focus on profits, not just sales.
 
 **Identify Costly Products**  
-+ Highest total revenue. 
-
-**City 1: Pune**  
-2. Average rent per customer is very low. 
++ Some products and areas are continuously losing money, requiring improvement or removal. 
 
 **Personalized Marketing**  
-3. Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
++ Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
 
 **Plan for Seasonal Trendsg**  
-3. Seasonal trends occur each year, so planning for inventory and promotions should be made particularly for the busy Q4 period.
++ Seasonal trends occur each year, so planning for inventory and promotions should be made particularly for the busy Q4 period.
 
 ---
