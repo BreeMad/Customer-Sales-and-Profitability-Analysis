@@ -9,8 +9,9 @@ The goal of this project is to analyze the retail data of the Kaggle Superstore 
 uncover insights related to product performance, regional sales trends, and customer segment profitability.
 
 ## Key Questions
-**Product Performance**
-*1. What are the 10 most profitable profits?*
+***Product Performance***
+1. **Profitable Products** 
+   What are the 10 most profitable products?*
 
 2. **Total Revenue from Coffee Sales**  
    What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
