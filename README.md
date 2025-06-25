@@ -1,4 +1,4 @@
-# Customer-Sales-and-Profitability-Analysis
+# Customer Sales and Profitability Analysis
 
 ![Company Logo](https://github.com/BreeMad/Customer-Sales-and-Profitability-Analysis/blob/main/1.jpg)
 
