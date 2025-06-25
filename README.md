@@ -10,8 +10,8 @@ uncover insights related to product performance, regional sales trends, and cust
 
 ## Key Questions
 ***Product Performance***
-1. **Profitable Products** 
-   What are the 10 most profitable products?
+1. **Coffee Consumers Count**  
+   How many people in each city are estimated to consume coffee, given that 25% of the population does?
 
 2. **Total Revenue from Coffee Sales**  
    What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
