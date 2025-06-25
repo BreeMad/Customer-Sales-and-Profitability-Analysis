@@ -10,11 +10,11 @@ uncover insights related to product performance, regional sales trends, and cust
 
 ## Key Questions
 ***Product Performance***
-1. **Coffee Consumers Count**  
+1. **Profitable Products**  
    What are the 10 most profitable products?
 
-2. **Total Revenue from Coffee Sales**  
-   What is the total revenue generated from coffee sales across all cities in the last quarter of 2023?
+2. **Lowest Profit or Loss of Money**  
+   Which products are making the lowest profit or are losing money?
 
 4. **Sales Count for Each Product**  
    How many units of each coffee product have been sold?
