@@ -56,6 +56,9 @@ After analyzing the data, the following strategies are recommended for the retai
 **Identify Costly Products**  
 2. Highest total revenue. 
 
+**City 1: Pune**  
+1. Average rent per customer is very low. 
+
 **Personalized Marketing**  
 3. Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
 
