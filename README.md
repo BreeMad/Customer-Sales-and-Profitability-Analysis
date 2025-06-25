@@ -41,9 +41,18 @@ uncover insights related to product performance, regional sales trends, and cust
    Are there any patterns, such as seasonal increases or decreases in sales performance?
    
  ***Correlation & Relationships***
-1. **Sales, Profit, Discount, and Quantity Correlation**  
+1. **Sales, Profit, Discount, & Quantity Correlation**  
    What is the relationship between sales, profit, discount, and quantity?
 
 2. **Trends**  
-   Do larger discounts result in better profitability, or do they have the opposite effect? 
-    
+   Do larger discounts result in better profitability, or do they have the opposite effect?
+
+## Recommendations
+After analyzing the data, the recommended strategies the retail team can implement to elevate performance are:
+
+1. High sales do not necessarily mean high profits. Therefore, it is important to focus on profits, not just sales.  
+2. Some projects and areas are continuously losing money, requiring improvement or removal.
+3. Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
+4. Seasonal trends occur each year, so planning for inventory and promotions should be made particularly for the busy Q4 period.
+
+---
