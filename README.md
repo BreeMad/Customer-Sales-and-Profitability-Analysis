@@ -59,7 +59,7 @@ After analyzing the data, the following strategies are recommended for the retai
 **Personalized Marketing**  
 + Marketing should be tailored toward individual customers since they are the segment that contributes to the most profits.
 
-**Plan for Seasonal Trendsg**  
+**Plan for Seasonal Trends**  
 + Seasonal trends occur each year, so planning for inventory and promotions should be made particularly for the busy Q4 period.
 
 ---
